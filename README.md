@@ -177,6 +177,10 @@ Some features I would like to add later are:
 - Inventory and low-stock tracking
 - Automated API testing
 
+## Live Demo
+
+[View the live Kitchen Prep Planner](https://kitchen-prep-planner.onrender.com)
+
 ## Author
 
 **Ali Ahtisham**
